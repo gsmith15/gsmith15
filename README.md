@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Gabe Smith. I am a former creative director and current software developer.
+My name is Gabe Smith. As an experienced graphic designer and creative director with a passion for innovation and tech, I've recently embarked on an exciting career change into the realm of software development. With a solid foundation in design principles and creative direction in the creative industry, I bring a unique perspective to my role as a software developer. My journey into coding was driven by a desire to merge my creative expertise with technical skills, empowering me to craft seamless digital experiences and innovative solutions.
+
+Drawing upon my background as a creative director, I approach software development with a keen eye for aesthetics and user-centric design. By blending creativity with technical proficiency, I leverage my diverse skill set to not only write clean and efficient code but also to conceptualize and execute projects that resonate with end-users on a deeper level. This fusion of creativity and coding not only fuels my professional growth but also enables me to deliver impactful solutions that transcend traditional boundaries.
